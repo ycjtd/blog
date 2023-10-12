@@ -48,7 +48,7 @@ export default {
     },
     nav: getNavs(),
     editLink: {
-      pattern: "https://github.com/fxzer/zerdocs/edit/master/docs/:path",
+      pattern: "https://github.com/ycjtd/blog/tree/main/docs/:path",
     },
     socialLinks,
     sidebar,

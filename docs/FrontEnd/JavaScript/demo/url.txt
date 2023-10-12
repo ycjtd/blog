@@ -1,2 +1,0 @@
-Terminal will be reused by tasks, 
-press any key to close it.
