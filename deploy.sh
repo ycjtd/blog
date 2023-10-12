@@ -10,10 +10,11 @@ git init
 
 git add -A
 
-git commit -m '🎉deploy gh-pages🎉'
+git commit -m 'deploy'
 
-git push -f git@gitee.com:fxzer/zerdocs.git master:gh-pages
-# git push -f git@github.com:fxzer/zerdocs.git master:gh-pages
+git push -f git@github.com:<ycjtd>/<ycjtd>.github.io.git master
+# git push -f git@github.com:ycjtd/blog.git
+
 
 cd ..
 
