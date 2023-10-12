@@ -36,8 +36,8 @@ features:
     details: 项目关键技术记录。
     link: /Project/
   - icon: 💪
-    title: 面试真题。
-    details: 面试算法题
+    title: 工程化。
+    details: 工程化相关。
     link: /Relay/
   - icon: 🧛
     title: 思维碎片。
