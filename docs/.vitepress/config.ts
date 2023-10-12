@@ -8,7 +8,7 @@ export default {
   // base: process.env.NODE_ENV === 'production' ? '/zerdocs/' : '/',
   // lastUpdated: true,
   // base:'/',
-  base: "/ycj/", //配置打包获取静态资源路径
+  // base: "/ycj/", //配置打包获取静态资源路径
   outDir: "../dist",
   cleanUrls: true, //去掉url中的.html后缀
   // srcDir:'./src', //相对于docs
