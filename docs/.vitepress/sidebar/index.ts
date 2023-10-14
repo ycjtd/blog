@@ -81,7 +81,7 @@ export default {
       collapsed: false,
       items: [
         {
-          text: "'+'和'~'选择器有什么不同",
+          text: "+和~选择器有什么不同",
           link: "/Interview/CSS/+和~选择器有什么不同",
         },
         {
@@ -565,13 +565,29 @@ export default {
   ],
   "/Problem/": [
     {
-      text: "Graphical",
+      text: "数组",
       collapsible: true,
       collapsed: false,
       items: [
         {
-          text: "数组",
-          link: "/Problem/Graphical/数组",
+          text: "二分查找",
+          link: "/Problem/数组/二分查找",
+        },
+        {
+          text: "移除元素",
+          link: "/Problem/数组/移除元素",
+        },
+        {
+          text: "有序数组的平方",
+          link: "/Problem/数组/有序数组的平方",
+        },
+        {
+          text: "长度最小的子数组",
+          link: "/Problem/数组/长度最小的子数组",
+        },
+        {
+          text: "螺旋矩阵",
+          link: "/Problem/数组/螺旋矩阵",
         },
       ],
     },
@@ -591,13 +607,13 @@ export default {
   ],
   "/Relay/": [
     {
-      text: "relay1",
+      text: "webpack",
       collapsible: true,
       collapsed: false,
       items: [
         {
-          text: "1",
-          link: "/Relay/relay1/1",
+          text: "基础",
+          link: "/Relay/webpack/基础",
         },
       ],
     },
