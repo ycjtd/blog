@@ -42,6 +42,17 @@ export default {
         },
       ],
     },
+    {
+      text: "JavaScript",
+      collapsible: true,
+      collapsed: false,
+      items: [
+        {
+          text: "Promise",
+          link: "/FrontEnd/JavaScript/Promise",
+        },
+      ],
+    },
   ],
   "/Interview/": [
     {
@@ -588,6 +599,41 @@ export default {
         {
           text: "螺旋矩阵",
           link: "/Problem/数组/螺旋矩阵",
+        },
+      ],
+    },
+    {
+      text: "链表",
+      collapsible: true,
+      collapsed: false,
+      items: [
+        {
+          text: "理论基础",
+          link: "/Problem/链表/理论基础",
+        },
+        {
+          text: "移除链表元素",
+          link: "/Problem/链表/移除链表元素",
+        },
+        {
+          text: "翻转链表",
+          link: "/Problem/链表/翻转链表",
+        },
+        {
+          text: "两两交换链表中的节点",
+          link: "/Problem/链表/两两交换链表中的节点",
+        },
+        {
+          text: "删除链表的倒数第N个节点",
+          link: "/Problem/链表/删除链表的倒数第N个节点",
+        },
+        {
+          text: "链表相交",
+          link: "/Problem/链表/链表相交",
+        },
+        {
+          text: "环形链表",
+          link: "/Problem/链表/环形链表",
         },
       ],
     },
