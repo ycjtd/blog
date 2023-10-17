@@ -569,6 +569,25 @@ export default {
   ],
   "/Problem/": [
     {
+      "text": "双指针",
+      "collapsible": true,
+      "collapsed": false,
+      "items": [
+        {
+          "text": "反转字符串",
+          "link": "/Problem/双指针/反转字符串"
+        },
+        {
+          "text": "反转字符串中的单词",
+          "link": "/Problem/双指针/反转字符串中的单词"
+        },
+        {
+          "text": "路径加密",
+          "link": "/Problem/双指针/路径加密"
+        }
+      ]
+    },
+    {
       "text": "哈希表",
       "collapsible": true,
       "collapsed": false,
